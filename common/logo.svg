@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title7">Vapor Logo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1664319"
+     inkscape:cx="80.316395"
+     inkscape:cy="49.851555"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="1.1"
+       subpath="1"
+       attach_start="0.2"
+       end_offset="0.2"
+       start_smoothing="0.5"
+       end_smoothing="0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="right | center"
+       end_shape="left | center"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="2"
+       subpath="1"
+       attach_start="0.5"
+       end_offset="0.9"
+       start_smoothing="1"
+       end_smoothing="0.8"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15.4"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       message=""
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="2.1505376"
+       interpolator_type="Linear"
+       interpolator_beta="0.071684588"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0.2,3.9000001 | 1,3.9000001 | 1.8,3.9000001"
+       linejoin_type="spiro"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="right | center"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="7.8"
+       subpath="1"
+       attach_start="0"
+       end_offset="0"
+       start_smoothing="0"
+       end_smoothing="0"
+       jointype="round"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="0.30000001"
+       subpath="1"
+       attach_start="0.2"
+       end_offset="0.2"
+       start_smoothing="1.8"
+       end_smoothing="0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="left | center"
+       id="path-effect5-7"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="2"
+       subpath="1"
+       attach_start="1"
+       end_offset="0.9"
+       start_smoothing="0.7"
+       end_smoothing="0.7"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect6-5"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="1.1"
+       subpath="1"
+       attach_start="1.9973884"
+       end_offset="2.625"
+       start_smoothing="0.7"
+       end_smoothing="1.7"
+       jointype="extrapolated"
+       miter_limit="100" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7"
+       transform="translate(0.61057691)">
+      <path
+         style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:7.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10"
+         d="m 7.8703552,61.226516 c -1.0834321,0.550087 -1.9014301,1.352717 -2.3577619,2.303844 0,0 -10e-8,10e-7 -10e-8,10e-7 l -1e-7,0 c -0.3829242,0.850787 -0.3040266,1.671497 -0.086605,2.244427 l 0,0 c 0.2672937,0.669897 0.6979624,1.070001 0.9675655,1.274385 l 0,0 c 0.1786396,0.136247 0.3314762,0.221553 0.4360539,0.272688 l 0,0 c 0,0 1e-7,0 1e-7,0 0.058905,0.02866 0.1046483,0.0477 0.1369865,0.06016 0.036656,0.01401 0.055174,0.01984 0.055174,0.01984 0,0 -0.00736,-0.0185 -0.020389,-0.05364 -0.01302,-0.0348 -0.027731,-0.07405 -0.050806,-0.136897 0,0 0,0 0,0 l 0,0 c -0.038227,-0.104818 -0.093933,-0.26108 -0.152439,-0.453527 l 0,0 C 6.7119921,66.470928 6.5813167,65.981068 6.603548,65.521969 l 0,0 c 0.015329,-0.36891 0.1434717,-0.808732 0.4214291,-1.160738 l 1e-7,0 c 0,0 10e-8,0 10e-8,0 0.3476616,-0.507988 0.9119253,-0.854507 1.8009497,-1.377762 3.98e-5,-2.2e-5 7.96e-5,-4.3e-5 1.195e-4,-6.5e-5 0.4910833,-0.267081 0.9192931,-0.550619 1.2898085,-0.847846 1.560728,-1.212473 1.841196,-3.073162 1.27526,-4.171639 l 0,0 c -0.257816,-0.479942 -0.636886,-0.801865 -1.039231,-0.973431 l 0,0 0,0 0,0 c -0.153568,-0.06541 -0.309648,-0.107283 -0.4658659,-0.123113 l 0,0 c -0.04516,-4.34e-4 -0.088502,0.0041 -0.1298952,0.01449 l 0,0 c -10e-8,0 3e-6,-2e-6 3e-6,-2e-6 0.1623791,-0.11482 0.6042891,-0.428863 0.7666681,-0.543683 0,0 3e-6,-2e-6 3e-6,-2e-6 0.0033,-0.0023 0.0067,-0.0046 0.01007,-0.0068 -0.0034,0.0022 -0.0068,0.0045 -0.01008,0.0068 -0.269927,0.191334 -0.5390453,0.381877 -0.8078144,0.57016 0.00669,0.01093 0.014425,0.0249 0.023489,0.04172 0.043785,0.0777 0.084613,0.162158 0.123698,0.252018 l 10e-8,0 c 0.1233911,0.288189 0.2057402,0.590097 0.2338772,0.888665 l 0,0 c 0.143436,0.859147 -0.4487396,1.825235 -1.2316653,2.484753 -0.2682973,0.215228 -0.5957541,0.434421 -0.9938732,0.650942 -2.45e-5,1.3e-5 -1.228e-4,6.7e-5 -1.473e-4,8e-5 z"
+         id="path1"
+         inkscape:path-effect="#path-effect5-7"
+         inkscape:original-d="m 7.021913,67.401994 c 0,0 -3.1208501,-2.878415 1.3263615,-5.297074 4.4472115,-2.418659 2.1845945,-5.773573 2.1845945,-5.773573"
+         transform="matrix(2.762503,0,0,2.7625036,-7.4631644,-155.61555)"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="spiral"
+         style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none"
+         id="path6"
+         sodipodi:cx="9.4405718"
+         sodipodi:cy="65.381813"
+         sodipodi:expansion="1"
+         sodipodi:revolution="1.6155105"
+         sodipodi:radius="2.5408461"
+         sodipodi:argument="-8.8326473"
+         sodipodi:t0="0.30151096"
+         transform="matrix(2.762503,0,0,-2.7625036,-7.8710083,206.04937)"
+         d="m 7.5672668,64.440841 c -0.4603195,1.294992 0.5184354,2.174209 1.1881504,2.336337 0.7682501,0.154845 1.1775288,-0.335732 1.3000538,-0.60812 0.123328,-0.274171 0.05331,-0.41256 0.05331,-0.41256 0,0 -0.06856,0.132026 -0.261434,0.240202 -0.1662655,0.09325 -0.5722575,0.187995 -0.8556069,0.0121 -0.2551818,-0.118246 -0.5824605,-0.684698 -0.3900569,-1.193825 3.922e-4,-0.0011 7.865e-4,-0.0022 0.00118,-0.0033 0.082961,-0.226442 0.2292973,-0.39546 0.4235095,-0.517907 0.3569613,-0.23213 0.8348157,-0.234486 1.1623053,-0.104159 1.059734,0.33576 0.997772,1.770182 0.852835,2.148125 -0.223156,0.621111 -0.770582,1.010645 -0.882107,1.099231 -0.1812123,0.143941 -0.2157554,0.199093 -0.102635,0.216754 0.197895,0.0309 0.77926,-0.258538 0.77926,-0.258538 0,0 -0.495132,0.432083 -0.646342,0.599194 -0.05725,0.06327 -0.05852,0.151638 0.268972,0.05352 0.206502,-0.06187 1.004006,-0.370753 1.461056,-1.334273 0.326474,-0.71669 0.531295,-2.698825 -1.324062,-3.533876 -0.6320579,-0.256391 -1.4451668,-0.257569 -2.1559446,0.183526 -0.3840331,0.242126 -0.6986542,0.603097 -0.8697112,1.069998 -9.189e-4,0.0025 -0.00183,0.005 -0.00274,0.0075 z"
+         inkscape:path-effect="#path-effect6-5" />
+    </g>
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Vapor Logo</dc:title>
+        <dc:date>December 17, 2024</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vapor Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Logo for the Vapor Steam emulator</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Deltara</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

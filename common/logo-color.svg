@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.385445"
+   height="121.076"
+   viewBox="0 0 17.829066 32.03469"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="logo-color.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title7">Vapor Logo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.4942694"
+     inkscape:cx="72.766798"
+     inkscape:cy="119.07294"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="1.1"
+       subpath="1"
+       attach_start="0.2"
+       end_offset="0.2"
+       start_smoothing="0.5"
+       end_smoothing="0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="right | center"
+       end_shape="left | center"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="2"
+       subpath="1"
+       attach_start="0.5"
+       end_offset="0.9"
+       start_smoothing="1"
+       end_smoothing="0.8"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15.4"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       message=""
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="2.1505376"
+       interpolator_type="Linear"
+       interpolator_beta="0.071684588"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0.2,3.9000001 | 1,3.9000001 | 1.8,3.9000001"
+       linejoin_type="spiro"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="right | center"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="7.8"
+       subpath="1"
+       attach_start="0"
+       end_offset="0"
+       start_smoothing="0"
+       end_smoothing="0"
+       jointype="round"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="0.30000001"
+       subpath="1"
+       attach_start="0.2"
+       end_offset="0.2"
+       start_smoothing="1.8"
+       end_smoothing="0.5"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="left | center"
+       id="path-effect5-7"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="2"
+       subpath="1"
+       attach_start="1"
+       end_offset="0.9"
+       start_smoothing="0.3"
+       end_smoothing="0.6"
+       jointype="extrapolated"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       start_shape="center | center"
+       end_shape="center | center"
+       id="path-effect6-5"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="1.1"
+       subpath="1"
+       attach_start="1.9973884"
+       end_offset="2.625"
+       start_smoothing="0.7"
+       end_smoothing="1.7"
+       jointype="extrapolated"
+       miter_limit="100" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.4326899,-4.584291e-5)">
+    <g
+       id="g7"
+       transform="translate(0.61057691)">
+      <path
+         style="fill:#46a3cf;fill-rule:nonzero;stroke:none;stroke-width:7.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         d="M 7.8703527,61.226518 C 7.1598416,61.581562 6.1114199,62.41289 5.662018,63.742852 5.41097,64.597539 5.5500915,65.423171 5.8773543,66.06814 c 0.3340001,0.654133 0.7928362,1.107441 1.1533762,1.398013 0.2030049,0.164337 0.3699154,0.273945 0.5105084,0.352609 0,0 2e-7,0 2e-7,0 0.1421549,0.08961 0.2764433,0.108855 0.2764433,0.108855 0,0 -0.066182,-0.04839 -0.206545,-0.193121 0,-10e-7 -10e-8,-10e-7 -10e-8,-10e-7 C 7.5108256,67.612647 7.4053103,67.463811 7.2790238,67.249757 7.056836,66.870526 6.8162103,66.349252 6.7392963,65.77846 c -0.067496,-0.529681 0.026943,-1.080739 0.2968191,-1.451017 0.372834,-0.626322 1.2814286,-1.03791 1.789814,-1.343975 3.9e-5,-2.2e-5 7.81e-5,-4.3e-5 1.171e-4,-6.4e-5 0.4873837,-0.265068 0.9171185,-0.544826 1.2946915,-0.836106 1.445141,-1.077109 2.015495,-2.848388 1.506628,-4.144044 l 0,0 c -0.178308,-0.447561 -0.466145,-0.810935 -0.814102,-1.056479 l 0,0 c -0.112483,-0.0795 -0.229614,-0.143734 -0.349931,-0.187507 l 0,0 -1e-6,0 0,0 c -0.03217,-0.0071 -0.0632,-0.0095 -0.09302,-0.0063 l 0,0 c 2e-6,0 3e-6,-10e-7 5e-6,-2e-6 0.275217,-0.132573 0.561348,-0.271749 0.856948,-0.415602 0.0043,-0.0021 0.0086,-0.0041 0.01295,-0.006 -0.0044,0.0019 -0.0087,0.0039 -0.01296,0.006 -0.296806,0.144426 -0.592849,0.287923 -0.888237,0.429211 0.0031,0.0076 0.0068,0.01869 0.01161,0.03314 0.02672,0.07364 0.04987,0.154554 0.07116,0.241496 l 0,0 c 0.06967,0.287822 0.09479,0.590154 0.07563,0.888725 l 0,0 c -0.01792,0.968314 -0.7242107,1.926796 -1.598317,2.633839 -0.2868629,0.221301 -0.6265737,0.444035 -1.0286025,0.662682 -4.99e-5,2.7e-5 -9.98e-5,5.4e-5 -1.498e-4,8.2e-5 z"
+         id="path1"
+         inkscape:path-effect="#path-effect5-7"
+         inkscape:original-d="m 7.8176824,67.927617 c -0.2852278,0 -3.9166195,-3.404038 0.5305921,-5.822697 4.4472115,-2.418659 2.8919445,-5.773573 2.8919445,-5.773573"
+         transform="matrix(2.762503,0,0,2.7625036,-7.4631644,-155.61555)"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:type="spiral"
+         style="fill:#88c1d2;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;fill-opacity:1"
+         id="path6"
+         sodipodi:cx="9.4405718"
+         sodipodi:cy="65.381813"
+         sodipodi:expansion="1"
+         sodipodi:revolution="1.6155105"
+         sodipodi:radius="2.5408461"
+         sodipodi:argument="-8.8326473"
+         sodipodi:t0="0.30151096"
+         transform="matrix(2.762503,0,0,-2.7625036,-7.8710083,206.04937)"
+         d="m 7.5672668,64.440841 c -0.4603195,1.294992 0.5184354,2.174209 1.1881504,2.336337 0.7682501,0.154845 1.1775288,-0.335732 1.3000538,-0.60812 0.123328,-0.274171 0.05331,-0.41256 0.05331,-0.41256 0,0 -0.06856,0.132026 -0.261434,0.240202 -0.1662655,0.09325 -0.5722575,0.187995 -0.8556069,0.0121 -0.2551818,-0.118246 -0.5824605,-0.684698 -0.3900569,-1.193825 3.922e-4,-0.0011 7.865e-4,-0.0022 0.00118,-0.0033 0.082961,-0.226442 0.2292973,-0.39546 0.4235095,-0.517907 0.3569613,-0.23213 0.8348157,-0.234486 1.1623053,-0.104159 1.059734,0.33576 0.997772,1.770182 0.852835,2.148125 -0.223156,0.621111 -0.770582,1.010645 -0.882107,1.099231 -0.1812123,0.143941 -0.2157554,0.199093 -0.102635,0.216754 0.197895,0.0309 0.77926,-0.258538 0.77926,-0.258538 0,0 -0.495132,0.432083 -0.646342,0.599194 -0.05725,0.06327 -0.05852,0.151638 0.268972,0.05352 0.206502,-0.06187 1.004006,-0.370753 1.461056,-1.334273 0.326474,-0.71669 0.531295,-2.698825 -1.324062,-3.533876 -0.6320579,-0.256391 -1.4451668,-0.257569 -2.1559446,0.183526 -0.3840331,0.242126 -0.6986542,0.603097 -0.8697112,1.069998 -9.189e-4,0.0025 -0.00183,0.005 -0.00274,0.0075 z"
+         inkscape:path-effect="#path-effect6-5" />
+    </g>
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Vapor Logo</dc:title>
+        <dc:date>December 17, 2024</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vapor Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Logo for the Vapor Steam emulator</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Deltara</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
